@@ -1,0 +1,10 @@
+﻿Build started 2/11/2015 1:27:57 AM.
+     1>Project "C:\Users\Steven\documents\visual studio 2012\Projects\HW1 Animations and Textures Final Edit\HW1 Animations and Textures Final Edit\HW1 Animations and Textures Final Edit.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Link:
+         HW1 Animations and Textures Final Edit.vcxproj -> C:\Users\Steven\documents\visual studio 2012\Projects\HW1 Animations and Textures Final Edit\Debug\HW1 Animations and Textures Final Edit.exe
+     1>Done Building Project "C:\Users\Steven\documents\visual studio 2012\Projects\HW1 Animations and Textures Final Edit\HW1 Animations and Textures Final Edit\HW1 Animations and Textures Final Edit.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
